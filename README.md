@@ -1,6 +1,6 @@
 ### Hi there 👋
-I’m currently working on my programming skills
-I can help with arduino problems
+I’m currently working on my programming skills, 
+I can help with arduino problems, 
 Im interested in Python and c++
 
 
